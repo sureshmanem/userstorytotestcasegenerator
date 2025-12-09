@@ -1,0 +1,5 @@
+pandas
+faker
+numpy
+streamlit
+boto3
